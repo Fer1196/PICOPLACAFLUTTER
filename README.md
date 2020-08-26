@@ -1,6 +1,6 @@
 # Picoplaca
 
-Pico y Placa test, horarios 5am-9pm Lunes a viernes.
+Pico y Placa test
 
 ## Capturas
 
