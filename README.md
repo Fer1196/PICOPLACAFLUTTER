@@ -6,8 +6,6 @@ Pico y Placa test, horarios 5am-9pm Lunes a viernes.
 
 Proyecto utilizando Flutter.
 
-
-- Pantalla principal
     <img src="/assets/pp1.jpg"  height="400">
 
 - Validación de campos
