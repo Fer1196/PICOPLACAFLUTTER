@@ -1,18 +1,43 @@
-# picoplaca
+# Picoplaca
 
-A new Flutter project.
+Pico y Placa test, horarios 5am-9pm Lunes a viernes.
 
-## Getting Started
+## Capturas
 
-This project is a starting point for a Flutter application.
+Proyecto utilizando Flutter.  
 
-A few resources to get you started if this is your first Flutter project:
+- Pantalla principal
+<img src="/assets/pp1.jpg"  height="400">
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Validación de campos
+  - Datos incorrectos
+  <img src="/assets/pp2.jpg"  height="400">
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Verificación Pico y Placa (día de no circulación)
+  - Ingreso de datos
+  <img src="/assets/pp3.jpg"  height="400">
+  
+  - Mensaje de alerta
+  <img src="/assets/pp4.jpg"  height="400">
 
-![Screenshot](/assets/coche.png)
+- Verificación Pico y Placa (día sábado)
+  - Ingreso de datos
+  <img src="/assets/pp5.jpg"  height="400">
+  
+  - Mensaje de alerta
+  <img src="/assets/pp6.jpg"  height="400">
+  
+- Verificación Pico y Placa 
+  - Ingreso de datos
+  <img src="/assets/pp7.jpg"  height="400">
+  
+  - Mensaje de alerta
+  <img src="/assets/pp8.jpg"  height="400">
+  
+- Verificación Pico y Placa 
+  - Ingreso de datos
+  <img src="/assets/pp9.jpg"  height="400">
+  
+  - Mensaje de alerta
+  <img src="/assets/pp10.jpg"  height="400">
+  
