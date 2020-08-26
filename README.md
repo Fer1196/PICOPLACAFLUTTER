@@ -27,14 +27,14 @@ Proyecto utilizando Flutter.
   - Mensaje de alerta
   <img src="/assets/pp6.jpg"  height="400">
   
- - Verificación Pico y Placa 
+- Verificación Pico y Placa 
   - Ingreso de datos
   <img src="/assets/pp7.jpg"  height="400">
   
   - Mensaje de alerta
   <img src="/assets/pp8.jpg"  height="400">
   
- - Verificación Pico y Placa 
+- Verificación Pico y Placa 
   - Ingreso de datos
   <img src="/assets/pp9.jpg"  height="400">
   
