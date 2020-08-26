@@ -15,4 +15,4 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![img](/assets/pp1.jpg) :height: 100px :width: 200 px :scale: 50 % 
+![img](/assets/pp1.jpg =250x250) 
